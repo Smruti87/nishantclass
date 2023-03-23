@@ -4,5 +4,6 @@
 Git 1</title>
 <body>
 <h2>Trying git commands</h2>
+<h3>Added new line</h3>
 </body>
 </html>
